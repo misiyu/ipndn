@@ -1,0 +1,3 @@
+/home/misiyu/code/ipndn2.0/ipndn_proxy/build/CMakeFiles/rebuild_cache.dir
+/home/misiyu/code/ipndn2.0/ipndn_proxy/build/CMakeFiles/edit_cache.dir
+/home/misiyu/code/ipndn2.0/ipndn_proxy/build/CMakeFiles/ipndn.dir
